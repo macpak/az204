@@ -7,9 +7,8 @@ namespace Code
 {
     class Program
     {
-        private static string ConnectionString = 
-            
-            "DefaultEndpointsProtocol=https;AccountName=macpak;AccountKey=VqqMFvt9V8RLe5/caMha1bkNAh0alVL/ZR2z7eUcTC+rx3o05rHfDddinrI1AC3SnPKgCuzqwloZuj6W7eRZMw==;EndpointSuffix=core.windows.net";
+        private static string ConnectionString =
+            "";            
 
         static async Task Main(string[] args)
         {
