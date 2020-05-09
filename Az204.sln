@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code", "Develop for Azure storage\Develop solutions that use blob storage\Set and retrieve properties and metadata\Code\Code.csproj", "{221C62EB-70FA-4E42-93DC-2F95B9D96937}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop for Azure storage", "Develop for Azure storage", "{1B82D9B4-07E2-4710-A431-983F77586DCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Develop solutions that use blob storage", "Develop solutions that use blob storage", "{5040453B-3FFE-482F-806F-E4FEFC40A54D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Set and retrieve properties and metadata", "Set and retrieve properties and metadata", "{496C7536-AB8D-49DE-AB09-C4F329A697B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221C62EB-70FA-4E42-93DC-2F95B9D96937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221C62EB-70FA-4E42-93DC-2F95B9D96937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221C62EB-70FA-4E42-93DC-2F95B9D96937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221C62EB-70FA-4E42-93DC-2F95B9D96937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5040453B-3FFE-482F-806F-E4FEFC40A54D} = {1B82D9B4-07E2-4710-A431-983F77586DCD}
+		{496C7536-AB8D-49DE-AB09-C4F329A697B8} = {5040453B-3FFE-482F-806F-E4FEFC40A54D}
+		{221C62EB-70FA-4E42-93DC-2F95B9D96937} = {496C7536-AB8D-49DE-AB09-C4F329A697B8}
+	EndGlobalSection
+EndGlobal
