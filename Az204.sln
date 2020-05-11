@@ -15,6 +15,11 @@ EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code", "Develop for Azure storage\Develop solutions that use blob storage\Move items in Blob storage between storage accounts or containers\Code\Code.csproj", "{30B59AAC-E0F4-4CEF-B828-86EE483FF52E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implement hot, cool, and archive storage ", "Implement hot, cool, and archive storage ", "{2B9BB931-5FB9-4573-8427-67A15AEE2261}"
+ProjectSection(SolutionItems) = preProject
+	Develop for Azure storage\Develop solutions that use blob storage\Implement hot, cool, and archive storage\readme.md = Develop for Azure storage\Develop solutions that use blob storage\Implement hot, cool, and archive storage\readme.md
+EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +41,6 @@ Global
 		{221C62EB-70FA-4E42-93DC-2F95B9D96937} = {496C7536-AB8D-49DE-AB09-C4F329A697B8}
 		{3C66090A-84CC-40C5-B301-A3BAA5465C28} = {5040453B-3FFE-482F-806F-E4FEFC40A54D}
 		{30B59AAC-E0F4-4CEF-B828-86EE483FF52E} = {3C66090A-84CC-40C5-B301-A3BAA5465C28}
+		{2B9BB931-5FB9-4573-8427-67A15AEE2261} = {5040453B-3FFE-482F-806F-E4FEFC40A54D}
 	EndGlobalSection
 EndGlobal
